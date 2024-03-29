@@ -1,0 +1,26 @@
+.backdrop {
+    height: 717px;
+    background-image: url(../resourses/backdrop.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 50%;
+    position: relative;
+}
+
+.back__text {
+    position: absolute;
+    left: 125px;
+    bottom: 60px;
+    width: 443px;
+    color: #FFFFFF;
+    font-size: 30px;
+    font-weight: 400;
+    line-height: 41px;
+}
+@media (max-width: 1199px) {
+
+}
+
+@media (max-width: 767px) {
+    
+}
